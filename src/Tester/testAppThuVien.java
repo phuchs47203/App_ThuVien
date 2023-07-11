@@ -34,8 +34,8 @@ import Vew.TraCuuSach;
 
 public class testAppThuVien {
 	public static void main(String[] args) {
-		//new QuanliHomePageView("QL01");
-		//new ThanhVienView("HVUIT001");
-		new LoginViewDesign();
+		// new QuanliHomePageView("QL01");
+		// new ThanhVienView("HVUIT001");
+		new LoginView();
 	}
 }
